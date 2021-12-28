@@ -1,0 +1,14 @@
+.Input{
+  overflow: auto;
+  width: 100%;
+}
+
+.Input input[type=text]{
+  color:#1afe49;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgba(0,0,0,0);
+  border: 0.5px solid #1afe49;
+  width: 98%;
+}

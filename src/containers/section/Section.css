@@ -1,0 +1,17 @@
+.sectionInput{
+  float: left;
+  margin-left: 25%;
+  width:41.5%;
+}
+
+ .SectionSearch{
+  float: left;
+  margin-left: 5px;
+  width: 20%;
+}
+
+.SectionList{
+  float: left;
+  margin-left: 25%;
+  width:50%;;
+}

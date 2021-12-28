@@ -1,0 +1,14 @@
+
+.ButtonSearch{
+  overflow: auto;
+  color: #29132e;
+  background-color: #1afe49;
+  font-size: 25px;
+  border-radius: 5px;
+  border: none;
+  width: 40%;
+}
+
+.ButtonSearch:hover{
+  background-color: rgba(255,255,255,0.4);
+}

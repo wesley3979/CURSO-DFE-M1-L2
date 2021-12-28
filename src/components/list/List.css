@@ -1,0 +1,15 @@
+.List{
+  float:left;
+  width:100%;
+}
+
+.List .Item{
+  border-radius: 5px;
+  text-align: center;
+  background-color: #1afe49;
+  color: #29132e;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 10px;
+  width:100%
+}
